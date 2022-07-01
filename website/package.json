@@ -1,0 +1,55 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "Yongli personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "author": "Yongli Zhu",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.1"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "csstype": "^3.1.0",
+    "esbuild": "^0.14.43",
+    "body-scroll-lock": "^4.0.0-beta.0",
+    "estree-walker": "^2.0.2",
+    "function-bind": "^1.1.1",
+    "has": "^1.0.3",
+    "magic-string": "^0.25.9",
+    "esbuild-windows-64": "^0.14.43",
+    "algoliasearch": "^4.13.1",
+    "js-tokens": "^4.0.0",
+    "jsonc-parser": "^3.0.0",
+    "postcss": "^8.4.14",
+    "is-core-module": "^2.9.0",
+    "loose-envify": "^1.4.0",
+    "rollup": "^2.75.6",
+    "scheduler": "^0.22.0",
+    "path-parse": "^1.0.7",
+    "shiki": "^0.10.1",
+    "source-map": "^0.6.1",
+    "nanoid": "^3.3.4",
+    "source-map-js": "^1.0.2",
+    "vite": "^2.9.12",
+    "picocolors": "^1.0.0",
+    "vscode-textmate": "^5.2.0",
+    "vue": "^3.2.37",
+    "react": "^18.1.0",
+    "preact": "^10.7.3",
+    "react-dom": "^18.1.0",
+    "resolve": "^1.22.0",
+    "supports-preserve-symlinks-flag": "^1.0.0",
+    "vue-demi": "^0.13.1",
+    "sourcemap-codec": "^1.4.8",
+    "vscode-oniguruma": "^1.6.2"
+  }
+}
